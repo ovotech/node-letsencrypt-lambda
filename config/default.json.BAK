@@ -3,7 +3,7 @@
   "s3-cert-bucket": "letsencrypt-certs.ovoenergy.com",
   "s3-folder": "foo",
   "certificate-info": {
-    "cert-name1": ["testsslcert2.ovoenergy.com"]
+    "cert-name1": ["testsslcert.ovoenergy.com"]
   },
   "acme-dns-retry": 30,
   "acme-dns-retry-delay-ms": 2000,
