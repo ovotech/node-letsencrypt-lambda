@@ -23,7 +23,7 @@
   "author": "Larry Anderson",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.20.0",
+    "aws-sdk": "^2.789.0",
     "es6-promisify": "^4.1.0",
     "node-forge": "^0.6.45",
     "rsa-compat": "^1.2.7",
