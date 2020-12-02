@@ -27,7 +27,7 @@
     "es6-promisify": "^4.1.0",
     "node-forge": "^0.6.45",
     "rsa-compat": "^1.2.7",
-    "superagent": "^3.5.0"
+    "superagent": "^3.8.3"
   },
   "devDependencies": {
     "archiver": "^1.2.0",
